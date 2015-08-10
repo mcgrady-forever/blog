@@ -1,2 +1,2 @@
 # blog
-personal technical blog
+in dev, personal technical blog
