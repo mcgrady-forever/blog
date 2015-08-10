@@ -1,2 +1,2 @@
 # blog
-personal technical blog
+Chris personal technical blog
