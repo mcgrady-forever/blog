@@ -4,4 +4,5 @@ third line
 fourth line
 
 six line
-add 1
+add 1  
+add 2  
